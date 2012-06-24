@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ModifyInterOrgConnector")]
 [assembly: AssemblyDescription("Hosted Exchange SendConnector Configurator.An application purely designed to modify a specific send connector.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Company Ltd.")]
+[assembly: AssemblyCompany("Claymarda.")]
 [assembly: AssemblyProduct("ModifyInterOrgConnector")]
 [assembly: AssemblyCopyright("Copyright ©  2011")]
 [assembly: AssemblyTrademark("")]
