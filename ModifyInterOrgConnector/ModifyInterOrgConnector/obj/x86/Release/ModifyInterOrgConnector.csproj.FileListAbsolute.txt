@@ -1,0 +1,51 @@
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.exe.manifest
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.application
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.exe
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.pdb
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.AboutBox1.resources
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.ASDetails.resources
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.dlgFilename.resources
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.Form1.resources
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.getFileLocation.resources
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.Properties.Resources.resources
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.exe.manifest
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.application
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.exe
+C:\Documents and Settings\David\my documents\visual studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.pdb
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.exe.manifest
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.application
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.exe
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.pdb
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.AboutBox1.resources
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.dlgFilename.resources
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.Form1.resources
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.getFileLocation.resources
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.Properties.Resources.resources
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.exe.manifest
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.application
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.exe
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.pdb
+D:\Documents and Settings\david\My Documents\Visual Studio 2010\Projects\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.ASDetails.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.exe.manifest
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.application
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.exe
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\bin\Release\ModifyInterOrgConnector.pdb
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.AboutBox1.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.dlgFilename.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.Form1.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.getFileLocation.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.ASDetails.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.Properties.Resources.resources
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.exe.manifest
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.application
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.exe
+C:\Documents and Settings\David\My Documents\Visual Studio 2010\Projects\C# Apps\ModifyInterOrgConnector\ModifyInterOrgConnector\obj\x86\Release\ModifyInterOrgConnector.pdb
