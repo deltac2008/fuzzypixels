@@ -37,8 +37,7 @@ class PiPong:
 		self.player1Bat = Bat(self.displaySize, "player1")
 		self.player2Bat = Bat(self.displaySize, "player2")
 		self.ball = Ball(self.displaySize)
-		self.sprites = sprite.Group(self.player1Bat, self.player2Bat,
-		self.ball)
+		self.sprites = sprite.Group(self.player1Bat, self.player2Bat, self.ball)
 	
 	def run(self):
 		# Runs the game loop
