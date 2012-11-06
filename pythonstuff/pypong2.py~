@@ -113,9 +113,9 @@ class PiPong:
 	def changeBat(self, batType):
 		# change the plyer2 bat type
 		self.sprites.remove(self.player2Bat)
-		if batType == "cpu":
+		if batType == "human":
 			self.player2Bat = AIBat(self.displaySize, "player2")
-		elif batType == "human":
+		elif batType == "cpu":
 			self.player2Bat = Bat(self.displaySize, "player2")
 		self.sprites.add(self.player2Bat)
 
@@ -263,10 +263,10 @@ class Ball(sprite.Sprite):
 		elif self.rect.midleft[0] <= 0:
 			# Hit left side
 			self.reset()
-			game.player2Bat.score()
+			#game.player2Bat.score()
 		elif self.rect.midright[0] >= self.displaySize[0]:
 			self.reset()
-			player1Bat.score()
+			#player1Bat.score()
 		elif self.rect.midbottom[1] >= self.displaySize[1]:
 			# Hit bottom side
 			self.reflectVector()

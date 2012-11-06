@@ -338,7 +338,7 @@ class Menu():
 					self.active = False
 				elif event.key == K_2:
 					game.changeBat("human")
-					self.active == False
+					self.active = False
 				
 
 # the AI Bat
