@@ -33,9 +33,6 @@ class PiPong:
 		# Create the background, passing through the display size
 		self.background = Background(self.displaySize)
 	
-		# create the menu
-		self.menu = Menu(self.displaySize)
-		
 		# Create two bats, a ball and add them to a sprite group
 		self.player1Bat = Bat(self.displaySize, "player1")
 		self.player2Bat = Bat(self.displaySize, "player2")
@@ -47,6 +44,10 @@ class PiPong:
 		
 		# new scoreboard
 		self.scores = ScoreBoard();
+		
+		# create the menu
+		self.menu = Menu(self.displaySize)
+		
 		
 	
 	def run(self):
@@ -64,6 +65,7 @@ class PiPong:
 			if self.menu.active:
 				# draw our menu and handle keys 1+2
 				self.menu.draw(self.display)
+				display.update()
 				self.menu.handleEvents()
 			else:
 				# handle events

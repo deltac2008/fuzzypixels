@@ -33,9 +33,6 @@ class PiPong:
 		# Create the background, passing through the display size
 		self.background = Background(self.displaySize)
 	
-		# create the menu
-		self.menu = Menu(self.displaySize)
-		
 		# Create two bats, a ball and add them to a sprite group
 		self.player1Bat = Bat(self.displaySize, "player1")
 		self.player2Bat = Bat(self.displaySize, "player2")
@@ -47,6 +44,10 @@ class PiPong:
 		
 		# new scoreboard
 		self.scores = ScoreBoard();
+		
+		# create the menu
+		self.menu = Menu(self.displaySize)
+		
 		
 	
 	def run(self):
@@ -60,6 +61,7 @@ class PiPong:
 			
 			# Draw the background
 			self.background.draw(self.display)
+			self.menu.draw(self.display)
 			
 			if self.menu.active:
 				# draw our menu and handle keys 1+2
@@ -113,9 +115,9 @@ class PiPong:
 	def changeBat(self, batType):
 		# change the plyer2 bat type
 		self.sprites.remove(self.player2Bat)
-		if batType == "human":
+		if batType == "cpu":
 			self.player2Bat = AIBat(self.displaySize, "player2")
-		elif batType == "cpu":
+		elif batType == "human":
 			self.player2Bat = Bat(self.displaySize, "player2")
 		self.sprites.add(self.player2Bat)
 
@@ -338,7 +340,7 @@ class Menu():
 					self.active = False
 				elif event.key == K_2:
 					game.changeBat("human")
-					self.active == False
+					self.active = False
 				
 
 # the AI Bat
