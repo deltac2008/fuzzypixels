@@ -4,4 +4,3 @@ This is my first repository using git and will contain results of my coding effo
 
 The code I will be using will include perl, python and quite possibly ruby. It will almost certainly include sections for my developing web pages.
 
-My twitter feed should be updated with the latest from here.
